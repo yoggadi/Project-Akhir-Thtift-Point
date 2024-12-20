@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop Bekas",
+      "price": "3.000.000",
+      "description": "Laptop bekas kondisi 90%, masih berfungsi dengan baik.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Bekas",
+      "price": "1.500.000",
+      "description": "Smartphone dengan layar AMOLED, mulus seperti baru.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
